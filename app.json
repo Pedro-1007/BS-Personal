@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "BS Personal",
+    "slug": "bs-personal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": { "backgroundColor": "#0A0D12" },
+    "ios": { "supportsTablet": true },
+    "plugins": [["expo-image-picker", { "photosPermission": "Permita que o BS Personal acesse suas fotos e vídeos para incluir mídia nos exercícios." }]],
+    "android": { "adaptiveIcon": { "backgroundColor": "#0A0D12" } }
+  }
+}
