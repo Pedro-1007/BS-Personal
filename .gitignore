@@ -1,0 +1,31 @@
+# Dependencies and local Expo state
+node_modules/
+.expo/
+.npm-cache/
+
+# Build output and temporary work
+dist/
+web-build/
+coverage/
+work/
+outputs/
+*.tsbuildinfo
+*.log
+
+# Secrets and native signing files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.p8
+*.jks
+*.keystore
+*.mobileprovision
+
+# Local editor and operating system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
